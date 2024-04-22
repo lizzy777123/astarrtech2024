@@ -1,5 +1,12 @@
-<!-- CSS for submenu -->
-    <style>
+@import url("font-awesome.min.css");
+body {
+  font-family: "Poppins", sans-serif;
+  color: #0c0c0c;
+  background-color: #ffffff;
+}
+
+
+
       .submenu {
         display: none;
         position: absolute;
@@ -23,20 +30,11 @@
       .nav-item:hover .submenu {
         display: block;
       }
-    </style>
+ 
 
 
 
 
-
-
-
-@import url("font-awesome.min.css");
-body {
-  font-family: "Poppins", sans-serif;
-  color: #0c0c0c;
-  background-color: #ffffff;
-}
 
 .layout_padding {
   padding-top: 90px;
