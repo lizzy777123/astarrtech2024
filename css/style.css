@@ -1,3 +1,36 @@
+<!-- CSS for submenu -->
+    <style>
+      .submenu {
+        display: none;
+        position: absolute;
+        background-color: #fff;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+      }
+      .submenu li {
+        display: block;
+      }
+      .submenu li a {
+        color: #000;
+        padding: 10px;
+        text-decoration: none;
+        display: block;
+      }
+      .submenu li a:hover {
+        background-color: #f1f1f1;
+      }
+      /* Show the submenu when hovering over the Services link */
+      .nav-item:hover .submenu {
+        display: block;
+      }
+    </style>
+
+
+
+
+
+
+
 @import url("font-awesome.min.css");
 body {
   font-family: "Poppins", sans-serif;
