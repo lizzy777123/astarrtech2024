@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  
+  <!-- Basic -->
+  
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  
+  <!-- Site Metas -->
+  <meta name="keywords" content="Astarr Tech, Dallas-Fort Worth Data, Dallas-Fort Worth IT, DFW Data, DFW IT, Fort Worth Data, Fort Worth IT, Fort Worth Professional Development Training, Dallas Data, Dallas IT, Dallas Professional Development Training, Hurst Data, Hurst IT, North Richland Hills Data, North Richland Hills IT, Crowley Data, Crowley IT, Burleson Data, Burleson IT, Arlington Data, Arlington IT, Arlington Professional Development Training, Houston Data, Houston IT, Houston Professional Development Training, Data, Data Security, #Astarrtech, Data Services, Data Security Services, Data Analytics for business, Data Security Education, Astarrtech, Tarrant County Data Security, Hurst Data Security, Burleson Data Security, Lakeworth Data Security, Remote Data, Remote IT Training, Virtual IT Training, Remote Data Security Training, Remote Pofessional Development Training, Virtual Preofessional Training, Texas Data Security Education, Fort Worth Data Security Education, Dallas Data Security Education, Irving Data Security Education, DFW Data Security Education, Tarrant County Data Security Education, Hurst Data Security Education, Burleson Data Security Education, Lakeworth Data Security Education, Remote Data Security" />
+  <meta name="description" content="Services Page - Astarr Tech is a Dallas - Fort Worth, Texas (USA) based Data Security company, providing data security assessments, data analytics services, IT professional development training to non profits and US government agencies. Our mission to improve non profits and government agency employees awareness of data security threats and mitigate risks before they become cyber security breaches. Astarr Tech is available to serve client needs around the USA, regardless of time zone." />
+  <meta name="author" content=" Astarr Tech" />
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+
+  <!-- Extra meta I have added -->
+    <meta name="generator" content="www.astarrtech.com/services/itproducts">
+    <meta property="og:title" content="Astarr Tech | IT Products ">
+    <meta property="og:description" content="Astarr Tech is a Dallas - Fort Worth, Texas (USA) based Data Security company, providing data security assessments, data analytics services, IT professional development training to non profits and US government agencies. Our mission to improve non profits and government agency employees awareness of data security threats and mitigate risks before they become cyber security breaches. Astarr Tech is available to serve client needs around the USA, regardless of time zone." />
+    <meta property="og:image" content="images/favicon.ico">
+    <meta property="og:url" content="www.astarrtech.com/services/itproducts">
+   
+  <title>Astarr Tech | Services: IT Products </title>
+
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+
+<body class="sub_page">
+  <div class="hero_area">
+    <!-- header section starts -->
+    <div class="hero_bg_box">
+      <div class="img-box">
+        <img src="images/hero-bg2.png" alt="Astarr Tech Home page image">
+      </div>
+    </div>
+
+
+    <header class="header_section">
+      <div class="header_top">
+        <div class="container-fluid">
+          <div class="contact_link-container">
+            <a href="" class="contact_link1">
+              <i class="fa fa-map-marker" aria-hidden="true"></i>
+              <span>
+                Dallas Fort Worth, Texas
+              </span>
+            </a>
+            <a href="tel:+1 682 401 2170" class="contact_link2">
+              <i class="fa fa-phone" aria-hidden="true"></i>
+              <span>
+                Call: +1 682 401 2170 
+              </span>
+            </a>
+            <a href="mailto:sales@astarrtech.com?subject=Enquiry:%20Astarr%20Bookkeeping%20and%20Financial%20Education%20Services" class="contact_link3">
+              <i class="fa fa-envelope" aria-hidden="true"></i>
+              <span>
+                sales@astarrtech.com
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="header_bottom">
+        <div class="container-fluid">
+          <nav class="navbar navbar-expand-lg custom_nav-container">
+            <a class="navbar-brand" href="index.html">
+              <span>
+
+               <!-- <img src="images/Astarrlogo.png" class="u-logo-image u-logo-image-1"></i> -->
+                <img src="images/favicon.ico" class="u-logo-image u-logo-image-1"></i>
+                Astarr Tech
+              </span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class=""></span>
+            </button>
+
+            <div class="collapse navbar-collapse ml-auto" id="navbarSupportedContent">
+              <ul class="navbar-nav  ">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html"> Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html"> About </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="services.html"> Services </a>
+                  <ul class="submenu">
+                    <li><a href="Cybersecurity.html">Cyber Security</a></li>
+                    <li><a href="Dataanalytics.html">Data Analytics</a></li>
+                    <li><a href="ITproducts.html">IT Products</a></li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html"> Contact Us </a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <!-- end header section -->
+
+  </div>
+
+
+
+  
+
+  <!-- IT Products section -->
+  
+  <section class="service_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          IT Products
+        </h2>
+        <p></p>
+        <p>
+         Maximize your organizational efficiency and growth with our comprehensive IT products—your path to streamlined, efficient operations starts here.        
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="box ">           
+            <div class="detail-box">
+              <h6>
+                Laptops / Cell phones
+              </h6>
+              <p>
+                Elevate your business with our basic bookkeeping services: meticulous transaction tracking, bank reconciliations, and clear financial oversight for peace of mind.
+              </p>
+              <p>
+                1. Laptop: Portable computers for your employees, available in various models and specifications.              </p>
+              <p>
+                2. Computer keyboard: Keyboards for typing and interacting with computers, with wired and wireless options.
+              </p>
+              <p>
+                3. Cell phones: Mobile devices for communication and internet access, available in various brands and models.
+              </p>
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Screen Monitors / Keyboards
+              </h6>
+              <p>
+                1. Computer screens: Displays for visual output, including monitors and screens for laptops and desktops.
+              </p>
+              <p>
+                2. Computer keyboard: Keyboards for typing and interacting with computers, with wired and wireless options.
+              </p>
+              <p>
+                3. Mouse: Pointing devices for precise cursor control, available in ergonomic and gaming designs.
+              </p> 
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Electronic parts
+              </h6>
+              <p>
+                1. Circuits: Electronic components for computer hardware, including circuit boards and microcontrollers.
+              </p>
+              <p>
+                2. Screws: Hardware for assembling and repairing computers, available in different sizes and types.
+              </p>
+              <a href="contact.html">
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end service section -->
+
+
+
+  <!-- Project Management section -->
+
+  <section class="service_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Project Management
+        </h2>
+        <p></p>
+        <p>
+        Maximize your project success with our expert project management services: strategic planning, compliance assurance, and tailored advice to optimize your project's outcomes.        
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Basic Project Management
+              </h6>
+              <p>
+               1. Essential project management services tailored for non-profit and government organizations.              </p>
+              <p>
+               2. Includes project initiation, basic planning, and stakeholder identification.
+              </p>
+              <p>
+               3. Ideal for small projects or organizations with limited budgets.              
+              </p>
+              <p>
+               4. Emphasis on delivering projects within scope and budget constraints.             
+              </p>
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Standard Project Management
+              </h6>
+              <p>
+               1. Comprehensive project management services designed for non-profit and government entities.
+              </p>
+              <p>
+               2. Includes detailed project planning, stakeholder engagement, and risk assessment.
+              </p>
+              <p>
+               3. Suitable for medium-sized projects or organizations seeking balanced support.
+              </p>
+              <p>
+               4. Focus on ensuring project alignment with organizational goals and stakeholder needs.
+              </p>
+              <p>
+              **Aglie Project Mangement or Waterfall available
+              </p>
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Premium Project Management
+              </h6>
+              <p>
+               1. Advanced project management services for non-profit and government sectors.              
+              </p>
+              <p>
+               2. Includes in-depth project planning, stakeholder management, and risk mitigation.
+              </p>
+              <p>
+               3. Tailored for large projects or organizations requiring extensive support.
+              </p>
+              <p>
+               4. Focus on strategic guidance, quality assurance, and maximizing project impact.
+              </p>
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end service section -->
+
+
+
+
+
+  <!-- Professional Development Training services section -->
+
+  <section class="service_section layout_padding">
+    <div class="container">
+      <div class="heading_container heading_center">
+        <h2>
+          Professional Development Training services
+        </h2>
+        <p></p>
+        <p>
+          Empower your workforce with our professional development training in finance and IT, designed to boost skills, knowledge, and career progression opportunities.
+        </p>
+      </div>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Basic Professional Development Training
+              </h6>
+              <p>
+               1. Finance Fundamentals Program: This service is designed to ground your employees in the essentials of financial literacy. It covers key topics such as basic accounting principles, budgeting processes, and understanding financial statements. Aimed at boosting financial decision-making skills, this program is perfect for individuals seeking a solid foundation in finance.             
+              </p>
+              <p>
+               2. IT Essentials Course: Targeted towards beginners and intermediate learners, this offering introduces participants to the core aspects of information technology. From basic computer skills and software applications to cybersecurity awareness, this course lays the groundwork for further specialization in IT and supports participants in keeping pace with evolving technological landscapes.   
+              </p>
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Standard Professional Development Training
+              </h6>
+              <p>
+              1. Intermediate Data Analytics Techniques Course: Elevate your data acumen with our course focused on analyzing financial data, navigating financial software, and understanding the impact of regulatory frameworks on financial reporting. Ideal for professionals aiming to deepen their finance skills.              
+              </p>
+              <p>
+              2. Advanced IT Skills Development Program: This comprehensive training covers network administration, database management, and introduces coding fundamentals. Tailored for those looking to expand their technical knowledge in IT infrastructure, cloud computing essentials, and data security principles.
+              </p>
+              <p>
+              3. Soft Skills Enhancement for Technical Roles: A specially designed course to hone communication, leadership, and project management skills in a technical context. Perfect for IT and finance professionals seeking to bridge the gap between technical proficiency and effective leadership.             
+              </p>
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="box ">
+            <div class="detail-box">
+              <h6>
+                Premium Professional Development Training
+              </h6>
+              <p>
+              1. Essential cybersecurity training covering threat awareness, password security, phishing detection, software updates, and basic defense strategies.             
+              </p>
+              <p>
+              2. Tech Leadership & Emerging Technologies offers IT professionals an in-depth exploration of leadership in adopting and implementing cutting-edge technologies such as AI, blockchain, and analytics, positioning them to spearhead technology-driven business transformations.              
+              </p>
+              <p>
+              3. Executive Leadership & Change Management prepares participants for high-level executive roles by enhancing their leadership capabilities, focusing on strategic decision-making, team building, and effectively managing complex organizational changes.  
+              </p>
+              <a href="contact.html">
+                Contact Us
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end service section -->
+
+
+
+
+  
+
+
+ <!-- footer section -->
+  <section class="info_section ">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <div class="info_logo">
+            <a class="navbar-brand" href="index.html">
+              <span>
+                Astarr Tech
+              </span>
+            </a>
+            <p>
+            At Astarr Tech we empower businesses through innovative cybersecurity, data analytics, and IT solutions, offering robust services like risk assessments, security training, data insights, and a diverse product portfolio spanning cutting-edge hardware, software and accessories. As a client-centric company, we seamlessly serve organizations nationwide, delivering tailored support across all time zones.            </p>
+          </div>
+        </div>
+
+        
+        
+    <!-- Contact us -->
+        <div class="col-md-3">
+          <div class="info_info">
+            <h5>
+              Contact Us
+            </h5>
+          </div>
+          <div class="info_contact">
+            <a href="https://outlook.office365.com/book/Astarrtech1@Astarrtech.com" class="">
+              <i class="fa fa-handshake-o" aria-hidden="true"></i>
+              <span>
+                Book Appointment
+              </span>
+            </a>
+            <a href="tel:+1 682 401 2170" class="">
+              <i class="fa fa-phone" aria-hidden="true"></i>
+              <span>
+                Call: + 1-682-401-2170                
+              </span>
+            </a>
+            <a href="mailto:sales@astarrtech.com?subject=Enquiry:%20Astarr%20Tech%20Services" class="">
+              <i class="fa fa-envelope" aria-hidden="true"></i>
+              <span>
+                sales@astarrtech.com
+              </span>
+            </a>
+          </div>
+        </div>
+
+        
+        
+      <!-- Useful links -->
+        <div class="col-md-3">
+          <div class="info_links">
+            <h5>
+              Useful Links
+            </h5>
+            <ul>
+              <li>
+                <a href="https://www.nist.gov/information-technology"> 1. NIST website
+                </a>
+              </li>
+              <li>
+                <a href="https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework"> 2. NIST 2.0
+                </a>
+              </li>
+              <li>
+                <a href="https://www.nist.gov/cyberframework"> 3. NIST Cybersecurity framework
+                </a>
+              </li>
+              <li>
+                <a href="https://www.iso.org/standard/27001"> 4. ISO/IEC 27001: Information security, cybersecurity and privacy protection website
+                </a>
+              </li>
+              <li>
+              <a href="https://www.gov.uk/data-protection"> 5. Data Protection Act UK
+                </a>
+              </li>
+              <li>
+              <a href="https://gdpr-info.eu/"> 6. GDPR EU
+                </a>
+              </li>
+              <li>
+              <a href="https://www.congress.gov/bill/117th-congress/house-bill/8152"> 7. American Data Privacy and Protection Act
+                </a>
+              </li>
+              <li>
+              <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2024/02/28/executive-order-on-preventing-access-to-americans-bulk-sensitive-personal-data-and-united-states-government-related-data-by-countries-of-concern/"> 8. 2024 President Executive Order on access to Personal Data
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+
+
+
+
+        
+    <!-- Social Media -->
+        
+        <div class="col-md-3">
+          <div class="info_form ">
+            <h5>
+              Social Media
+            </h5>
+
+            <img src="images/Astarrlogo.png" width="113" height="113" alt="Astarr Tech logo">
+
+            <div class="social_box">
+              <a href="https://www.linkedin.com/company/astarr-tech/">
+                <i class="fa fa-linkedin" aria-hidden="true"></i>
+              </a>
+              <a href="https://www.instagram.com/astarr.tech/">
+                <i class="fa fa-instagram" aria-hidden="true"></i>
+              </a>         
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end info_section -->
+
+
+
+
+  <!-- footer section -->
+  <footer class="container-fluid footer_section">
+    <p>
+      &copy; <span id="currentYear"></span> All Rights Reserved. Design by
+      <a href="https://www.astarrtech.com">Astarr Tech LLC </a>
+    </p>
+  </footer>
+  <!-- footer section -->
+
+
+  
+  <script src="js/jquery-3.4.1.min.js"></script>
+  <script src="js/bootstrap.js"></script>
+  <script src="js/custom.js"></script>
+</body>
+
+</html>
